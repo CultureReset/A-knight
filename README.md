@@ -1,3 +1,5 @@
+> **Not part of Ghost.** This is a copy of Grok Build, SpaceXAI's terminal coding agent (Rust), kept for reference. It is not installed on a Ghost box.
+
 <div align="center">
 
 <h1>
