@@ -1,3 +1,14 @@
+> **CultureReset fork of the upstream project shown under "forked from" at the top of this page.** A coding-agent harness with a full-screen, mouse-driven terminal UI.
+>
+> - **Why it is here:** Saved for reference.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** Apache-2.0, from upstream. For updates and issues, use the upstream project.
+>
+> The upstream README follows unchanged.
+
+---
+
 <div align="center">
 
 <h1>
